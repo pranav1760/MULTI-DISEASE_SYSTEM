@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Prath\OneDrive\Desktop\Multidisease_Prediction_App\app.py"
